@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub page! 
+# 👋 Hey, it's me, Mona! 
 
 ## 👦🏼 About Me
 Hi there! I'm Samuele, a student in Artificial Intelligence at UNITO, in Turin (Italy)
