@@ -25,3 +25,5 @@ I love working with:
 [Include your GitHub Stats using shields.io or similar service]
 -->
 Thanks for stopping by! Don't forget to check out my projects and give them a ⭐️ if you find them useful.
+
+![alt text](https://github.com/Monasterolo21/Monasterolo21/Monasterolo21/snake.svg)
