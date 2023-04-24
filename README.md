@@ -26,4 +26,4 @@ I love working with:
 -->
 Thanks for stopping by! Don't forget to check out my projects and give them a ⭐️ if you find them useful.
 
-![alt text](https://github.com/Monasterolo21/Monasterolo21/Monasterolo21/snake.svg)
+![alt text](https://github.com/Monasterolo21/Monasterolo21/blob/c0a08735b96374cae0afe77f53318108e3572857/snake.svg)
