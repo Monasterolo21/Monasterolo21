@@ -1,28 +1,55 @@
 # 👋 Hey, it's me, Mona!
 
-## 👦🏼 About Me
-Hi there! I'm Samuele, a student in Artificial Intelligence at UNITO, in Turin, Italy.
+### 🤖 What I'm Currently Working On:
 
-## 📚 What I'm Currently Working On
-I'm currently involved in several projects for both my academic studies and personal exploration of new technologies.
+I'm diligently coding away on my AI research projects at university in Turin, while also developing my startup, Buddywork, which aims to enhance people's wellbeing through innovative tech solutions.
 
-## 🤝 How to Collaborate
-I'm always open to collaboration on new projects. Feel free to reach out to me via email at smonasterolo2@gmail.com if you're interested in working together.
+### 💼 I'm Looking to Collaborate On:
 
-## 💻 Technologies & Tools
-I love working with:
+I'm on the lookout for like-minded individuals and organizations interested in collaborating on technology-driven wellness initiatives, especially in the AI space that can contribute to the mission of Buddywork.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="" title="" width="60px" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="" title="" width="60px" style="margin-right: 10px;">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="" title="" width="60px" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="" title="" width="60px" style="margin-right: 10px;">
-</p>
+### 🛠 I'm Looking for Help With:
 
+I'm seeking expertise and guidance in scaling startups, particularly in the wellbeing sector, as I'm passionate about driving Buddywork towards its full potential.
 
+### 🏫 I'm Currently Learning:
 
-<br>
-<br>
-Thanks for stopping by! Don't forget to check out my projects and give them a ⭐️ if you find them useful.
+I'm currently diving deeper into machine learning algorithms and their applications in mental health and fitness tech because I believe in the power of AI to transform our approach to wellness.
 
-![snake](https://github.com/Monasterolo21/Monasterolo21/blob/c0a08735b96374cae0afe77f53318108e3572857/snake.svg)
+### 🏋🏻‍♂️ Fun Fact:
+
+Fun fact: Outside the tech world, I love powerlifting and have the endurance to match my strength – I've even completed a marathon!
+
+<br />
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samu_mona) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-monasterolo-b01404280)
+
+<br />
+
+# 💻 Tech Stack:
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+
+<br />
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Monasterolo21&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Monasterolo21&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monasterolo21&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br />
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<br />
+
+[![](https://visitcount.itsvg.in/api?id=Monasterolo21&icon=4&color=11)](https://visitcount.itsvg.in)
