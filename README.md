@@ -46,9 +46,6 @@ Fun fact: Outside the tech world, I love powerlifting and have the endurance to 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br />
 
