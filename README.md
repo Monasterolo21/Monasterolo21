@@ -2,15 +2,15 @@
 
 ### 🤖 What I'm Currently Working On:
 
-I'm diligently coding away on my AI research projects at university in Turin, while also developing my startup, Buddywork, which aims to enhance people's wellbeing through innovative tech solutions.
+At the moment y focus is all on my startup [Welbemo](https://www.welbemo.com). At Welbemo we try to simplify the wellbeing of the italian companies, in order to make sure that the workers are happy and they can achieve amazing results.
 
 ### 💼 I'm Looking to Collaborate On:
 
-I'm on the lookout for like-minded individuals and organizations interested in collaborating on technology-driven wellness initiatives, especially in the AI space that can contribute to the mission of Buddywork.
+I'm on the lookout for like-minded individuals and organizations interested in collaborating on technology-driven wellness initiatives, especially in the AI space that can contribute to the mission of Welbemo.
 
 ### 🛠 I'm Looking for Help With:
 
-I'm seeking expertise and guidance in scaling startups, particularly in the wellbeing sector, as I'm passionate about driving Buddywork towards its full potential.
+I'm seeking expertise and guidance in scaling startups, particularly in the wellbeing sector, as I'm passionate about driving Welbemo towards its full potential.
 
 ### 🏫 I'm Currently Learning:
 
@@ -18,7 +18,7 @@ I'm currently diving deeper into machine learning algorithms and their applicati
 
 ### 🏋🏻‍♂️ Fun Fact:
 
-Fun fact: Outside the tech world, I love powerlifting and have the endurance to match my strength – I've even completed a marathon!
+Fun fact: Outside the tech world, I love weightlifing and have the endurance to match my strength – I've even completed a marathon!
 
 <br />
 
