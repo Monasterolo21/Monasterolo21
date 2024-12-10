@@ -2,15 +2,11 @@
 
 ### 🤖 What I'm Currently Working On:
 
-At the moment y focus is all on my startup [Welbemo](https://www.welbemo.com). At Welbemo we try to simplify the wellbeing of the italian companies, in order to make sure that the workers are happy and they can achieve amazing results.
+At the moment the best part of my time is spent working on my startup [Welbemo](https://www.welbemo.com). At Welbemo we try to simplify the wellbeing of the italian companies, in order to make sure that the workers are happy and they can achieve amazing results, both for the company and for themself.
 
-### 💼 I'm Looking to Collaborate On:
+### 🤙🏻 Other Projects:
 
-I'm on the lookout for like-minded individuals and organizations interested in collaborating on technology-driven wellness initiatives, especially in the AI space that can contribute to the mission of Welbemo.
-
-### 🛠 I'm Looking for Help With:
-
-I'm seeking expertise and guidance in scaling startups, particularly in the wellbeing sector, as I'm passionate about driving Welbemo towards its full potential.
+I've worked on different projects during the years, you can see the complete list on my [portfolio website](https://www.samuelemonasterolo.com/).
 
 ### 🏫 I'm Currently Learning:
 
