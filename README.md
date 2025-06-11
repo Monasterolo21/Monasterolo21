@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=57CC99&center=true&vCenter=true&width=600&lines=Hey%2C+it's+me%2C+Mona!;Full-Stack+Developer+%26+Founder;Passionate+about+AI+%26+Mental+Health" alt="Typing SVG" />
 </div>
 
-<br />
-
 ### 🤖 What I'm Currently Working On:
 
 At the moment the best part of my time is spent working on my startup [Welbemo](https://www.welbemo.com). At Welbemo we try to simplify the wellbeing of the italian companies, in order to make sure that the workers are happy and they can achieve amazing results, both for the company and for themself.
@@ -28,6 +26,7 @@ I've worked on different projects during the years, you can see the complete lis
 - 🤖 MSc in AI, currently exploring the intersection of technology and human wellbeing with code and no-code tools
 
 <br />
+<br />
 
 ## 🌐 Socials:
 
@@ -42,14 +41,6 @@ I've worked on different projects during the years, you can see the complete lis
 </div>
 
 <br />
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monasterolo21&theme=material-palenight	&hide_border=true&bg_color=1C1C1C&color=57CC99&line=57CC99&point=B5EBDA" alt="GitHub Activity Graph" />
-</div>
-
-<br />
 <br />
 
 ## 💻 Tech Stack:
@@ -58,18 +49,19 @@ I've worked on different projects during the years, you can see the complete lis
 
 ### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind)](https://skillicons.dev)
 
 ### Databases & Backend
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,supabase,firebase,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,supabase,firebase,nodejs,py)](https://skillicons.dev)
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,figma,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,figma,vscode,github,cloudflare,sentry,vercel)](https://skillicons.dev)
 
 </div>
 
+<br />
 <br />
 
 ### 🔥 Streak & Contribution Stats
