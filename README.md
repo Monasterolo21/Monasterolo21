@@ -1,48 +1,90 @@
-# 👋 Hey, it's me, Mona!
+![Header](header.png)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=57CC99&center=true&vCenter=true&width=600&lines=Hey%2C+it's+me%2C+Mona!;Full-Stack+Developer+%26+Founder;Passionate+about+AI+%26+Mental+Health" alt="Typing SVG" />
+</div>
+
+<br />
 
 ### 🤖 What I'm Currently Working On:
 
 At the moment the best part of my time is spent working on my startup [Welbemo](https://www.welbemo.com). At Welbemo we try to simplify the wellbeing of the italian companies, in order to make sure that the workers are happy and they can achieve amazing results, both for the company and for themself.
 
+<div align="center">
+  <img src="./snake.svg" alt="Snake animation" />
+</div>
+
+<br />
+
 ### 🤙🏻 Other Projects:
 
 I've worked on different projects during the years, you can see the complete list on my [portfolio website](https://www.samuelemonasterolo.com/).
 
-### 🏫 I'm Currently Learning:
+### 🏋🏻‍♂️ Fun Facts:
 
-I'm currently diving deeper into machine learning algorithms and their applications in mental health and fitness tech because I believe in the power of AI to transform our approach to wellness.
-
-### 🏋🏻‍♂️ Fun Fact:
-
-Fun fact: Outside the tech world, I love weightlifing and have the endurance to match my strength – I've even completed a marathon!
+- 🏃‍♂️ 2 times marathon finisher with a passion for endurance sports
+- 💪 Weightlifting enthusiast who believes in balanced mind-body wellness
+- 🇮🇹 Proudly working to improve Italian workplace culture
+- 🤖 MSc in AI, currently exploring the intersection of technology and human wellbeing with code and no-code tools
 
 <br />
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samu_mona) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-monasterolo-b01404280)
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/samu_mona)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-monasterolo-b01404280)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smonasterolo2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2357CC99.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.samuelemonasterolo.com/)
+[![Welbemo](https://img.shields.io/badge/Welbemo-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.welbemo.com)
+
+</div>
 
 <br />
 
-# 💻 Tech Stack:
+## 📈 Activity Graph
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monasterolo21&theme=material-palenight	&hide_border=true&bg_color=1C1C1C&color=57CC99&line=57CC99&point=B5EBDA" alt="GitHub Activity Graph" />
+</div>
+
+<br />
+<br />
+
+## 💻 Tech Stack:
+
+<div align="center">
+
+### Languages & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,express)](https://skillicons.dev)
+
+### Databases & Backend
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,supabase,firebase,nodejs,py)](https://skillicons.dev)
+
+### Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,figma,vscode,github)](https://skillicons.dev)
+
+</div>
 
 <br />
 
-# 📊 GitHub Stats:
+### 🔥 Streak & Contribution Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Monasterolo21&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Monasterolo21&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monasterolo21&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br />
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monasterolo21&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
 <br />
+<br />
 
-[![](https://visitcount.itsvg.in/api?id=Monasterolo21&icon=4&color=11)](https://visitcount.itsvg.in)
+### 📫 Let's Connect!
+
+<div align="center">
+  <em>💬 Always open to interesting conversations about tech, AI, wellness, and building meaningful solutions!</em>
+  <br />
+  <strong>Let's create something amazing together! 🚀</strong>
+</div>
