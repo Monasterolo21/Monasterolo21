@@ -63,20 +63,3 @@ I've worked on different projects during the years, you can see the complete lis
 
 <br />
 <br />
-
-### 🔥 Streak & Contribution Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monasterolo21&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br />
-<br />
-
-### 📫 Let's Connect!
-
-<div align="center">
-  <em>💬 Always open to interesting conversations about tech, AI, wellness, and building meaningful solutions!</em>
-  <br />
-  <strong>Let's create something amazing together! 🚀</strong>
-</div>
