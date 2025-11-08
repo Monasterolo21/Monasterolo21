@@ -1,12 +1,12 @@
 ![Header](header.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=57CC99&center=true&vCenter=true&width=600&lines=Hey%2C+it's+me%2C+Mona!;Full-Stack+Developer+%26+Founder;Passionate+about+AI+%26+Mental+Health" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=57CC99&center=true&vCenter=true&width=600&lines=Hey%2C+it's+me%2C+Mona!;AI+Engineer" alt="Typing SVG" />
 </div>
 
 ### 🤖 What I'm Currently Working On:
 
-At the moment the best part of my time is spent working on my startup [Welbemo](https://www.welbemo.com). At Welbemo we try to simplify the wellbeing of the italian companies, in order to make sure that the workers are happy and they can achieve amazing results, both for the company and for themself.
+At the moment I am working at [Keplero AI](https://keplero.ai/) as AI Engineer 🛶
 
 <div align="center">
   <img src="./snake.svg" alt="Snake animation" />
@@ -23,8 +23,7 @@ I've worked on different projects during the years, you can see the complete lis
 - 🏃‍♂️ 2 times marathon finisher with a passion for endurance sports
 - 💪 Weightlifting enthusiast who believes in balanced mind-body wellness
 - 🇮🇹 Proudly working to improve Italian workplace culture
-- 🤖 MSc in AI, currently exploring the intersection of technology and human wellbeing with code and no-code tools
-
+- 🤖 MSc in AI at the University of Turin
 <br />
 <br />
 
